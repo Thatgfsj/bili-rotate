@@ -1,15 +1,23 @@
 // ==UserScript==
-// @author          yukinotech
-// @namespace       yukinotech
-// @github          https://github.com/yukinotech/bili-rotate
+// @author          Thatgfsj
+// @namespace       https://github.com/Thatgfsj/bili-rotate
+// @github          https://github.com/Thatgfsj/bili-rotate
+// @homepageURL     https://github.com/Thatgfsj/bili-rotate
+// @supportURL      https://github.com/Thatgfsj/bili-rotate/issues
+// @originalAuthor  yukinotech
 // @name            bilibili b站 视频 旋转
 // @name:en         bilibili player rotate
-// @version         1.1.5
+// @version         1.1.6
 // @description     bilibili 视频 旋转 插件
 // @description:en  bilibili b站 player rotate plugin
+// @icon            https://raw.githubusercontent.com/Thatgfsj/bili-rotate/main/rotate.svg
 // @include         http*://*.bilibili.com/video/*
 // @license MIT
+// @updateURL       https://raw.githubusercontent.com/Thatgfsj/bili-rotate/main/index.js
+// @downloadURL     https://raw.githubusercontent.com/Thatgfsj/bili-rotate/main/index.js
 // ==/UserScript==
+// fork 自 yukinotech/bili-rotate（原版：https://github.com/yukinotech/bili-rotate）
+// 本仓库为 Thatgfsj 的维护版本，更新从此仓库的 main 分支获取
 
 ;(async function () {
   console.log("rotate init start xxxxx")

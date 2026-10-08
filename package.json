@@ -1,8 +1,15 @@
 {
   "name": "bili-rotate",
-  "version": "1.1.5",
+  "version": "1.1.6",
   "main": "index.js",
-  "author": "yukinotech <yukinotech@gmail.com>",
+  "author": "Thatgfsj <thatgfsj2324@gmail.com>",
+  "contributors": [
+    "yukinotech <yukinotech@gmail.com>"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Thatgfsj/bili-rotate.git"
+  },
   "license": "MIT",
   "scripts":{
     "dev":"node ./dev-server/main.js"
